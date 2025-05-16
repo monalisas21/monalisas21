@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/andriyassaini/" target="_blank"> Monalisa Sharma </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=MERN+Stack+Developer+%3A)" /> </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monalisas21&label=Profile%20views&color=0e75b6&style=flat" alt="monalisas21" /> </p>
-
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 #  About:
 •🌱 Knowledge is power.<br>•💬 Ask me about : Web Development, DBMS , Machine Learning and DSA<br>•👩‍💻 Contact me: monalisa.sharma2004@gmail.com<br>•⚡ Fun fact: I am good at Public Speaking
 <br>
