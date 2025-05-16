@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/andriyassaini/" target="_blank"> Monalisa Sharma </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
-#  About:
+
+
 •🌱 Knowledge is power.<br>•💬 Ask me about : Web Development, DBMS , Machine Learning and DSA<br>•👩‍💻 Contact me: monalisa.sharma2004@gmail.com<br>•⚡ Fun fact: I am good at Public Speaking
 <br>
 
@@ -44,8 +45,6 @@
 <div align="left">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
 
