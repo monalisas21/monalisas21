@@ -2,7 +2,7 @@
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
 
-•🌱 Knowledge is power.<br>•💬 Ask me about : Web Development, DBMS , Machine Learning and DSA<br>•👩‍💻 Contact me: monalisa.sharma2004@gmail.com<br>•⚡ Fun fact: I am good at Public Speaking
+•🌱 Knowledge is power.<br>•💬 Ask me about : Web Development, DBMS , Machine Learning and DSA<br>•👩‍💻 Contact me: monalisa.sharma2004@gmail.com<br>•⚡ Fun fact: I portrait good codes :-)
 <br>
 
 
